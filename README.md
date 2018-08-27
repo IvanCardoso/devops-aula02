@@ -2,5 +2,6 @@
 
 #Atores preferidos
 1. Will Smith
-2. Leonardo DiCaprio
+2. Christian Bale
 3. Margot Robbie
+4. Angelina Jolie
